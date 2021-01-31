@@ -1,0 +1,6 @@
+add water 
+add suger 
+add tea powder
+boil up to five minute
+add milk 
+again boil
